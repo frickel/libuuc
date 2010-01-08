@@ -1,14 +1,20 @@
 
  <h1>libuuc</h1>
- <p>libuuc is a general purpose library for AVR microcontrollers
- licensed under the BSD license. The goal for this project is
- creating an elegant, stable and fast library to work with
- AVR microcontrollers.
+
+ <p>
+ libuuc is a general purpose library for AVR microcontrollers
+ licensed under the BSD license.
  </p>
 
- <h1>License</h1>
+ <p>
+ The goal for this project is creating an elegant, stable and performant 
+ library to work with AVR microcontrollers in order to have a clean
+ structure even in big projects.
+ </p>
+
+ <h1>License (BSD)</h1>
  <pre>
-	(c) 2010 by syso et al <libuuc@ext.no-route.org>
+	(c) 2010 by syso et al. <libuuc@ext.no-route.org>
 
         Redistribution and use in source and binary forms, with or without
         modification, are permitted provided that the following conditions are
